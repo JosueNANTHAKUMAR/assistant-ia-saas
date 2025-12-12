@@ -1,0 +1,3 @@
+# Chatbox
+
+Project initialized.
