@@ -96,7 +96,7 @@ export default function Chat() {
         <div className="p-4 border-t border-gray-800">
           <div className="flex items-center gap-3">
             <div className="w-8 h-8 rounded-full bg-blue-600 flex items-center justify-center text-xs font-bold">
-              JS
+              CS
             </div>
             <div className="text-sm">
               <div className="font-medium text-white">Capital Santé</div>
