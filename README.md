@@ -1,4 +1,4 @@
-# 🚀 SaaS-Ready AI Assistant - Next.js & Gemini
+# 🚀 Assistant IA SAAS - Next.js & Gemini
 
 ![Josué AI Preview](./public/chat-preview.png)
 
